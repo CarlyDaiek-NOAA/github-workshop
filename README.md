@@ -1,3 +1,4 @@
 # github-workshop
 Repository for practicing committing to Github
-First commiton my computer.
+First commit on my computer.
+Second commit on my computer.
